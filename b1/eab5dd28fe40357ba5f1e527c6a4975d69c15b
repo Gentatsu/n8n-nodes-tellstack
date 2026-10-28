@@ -1,0 +1,36 @@
+deploy/env.example
+  s_a5a2d5cd4d114e::t_946034d2ae1f48 1-16
+Dockerfile
+  s_a5a2d5cd4d114e::t_ecc7c0dd95fac5 10
+  s_a5a2d5cd4d114e::t_42ad6aa4c5dbb5 7-9
+  s_a5a2d5cd4d114e::t_b749939f18fa16 11-13
+  s_8e23d29ed608bd::t_8404bbc554da88 1-6,14-26
+deploy/docker-compose.yml
+  s_a5a2d5cd4d114e::t_7b5f1174c45cb9 1-27
+deploy/update.sh
+  s_a5a2d5cd4d114e::t_829727f4682a5d 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "b1eab5dd28fe40357ba5f1e527c6a4975d69c15b",
+  "prompts": {},
+  "sessions": {
+    "s_8e23d29ed608bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a55bd1cc538a309f9",
+        "model": "unknown"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
