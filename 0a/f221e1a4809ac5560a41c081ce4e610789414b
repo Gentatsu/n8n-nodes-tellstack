@@ -1,0 +1,30 @@
+src/db.mjs
+  s_a5a2d5cd4d114e::t_4c48660f38ee85 99-101
+  s_a5a2d5cd4d114e::t_644e3fe455200a 118-126
+  s_a5a2d5cd4d114e::t_8672831beee501 144,154-155
+  s_a5a2d5cd4d114e::t_8af6169c8d2d44 173-175,182-184
+src/billing.mjs
+  s_a5a2d5cd4d114e::t_b6cb6a69152b92 79-99
+test/usage.test.mjs
+  s_a5a2d5cd4d114e::t_d124251ea5820f 1-39
+  s_a5a2d5cd4d114e::t_be70499b346e34 40
+src/server.mjs
+  s_a5a2d5cd4d114e::t_ebafb9eec80322 405
+  s_a5a2d5cd4d114e::t_180ffe63c2637d 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0af221e1a4809ac5560a41c081ce4e610789414b",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
