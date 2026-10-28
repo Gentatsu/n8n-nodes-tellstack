@@ -1,0 +1,43 @@
+site/compare/similartech-alternative.html
+  s_a5a2d5cd4d114e::t_28cb5389ff4875 1-105
+site/compare/wappalyzer-alternative.html
+  s_a5a2d5cd4d114e::t_adaa97eca285bd 77
+  s_a5a2d5cd4d114e::t_ec3bda194012aa 1-66,68-76,78-121
+  s_a5a2d5cd4d114e::t_1e248b3bab138d 67
+site/compare/builtwith-alternative.html
+  s_a5a2d5cd4d114e::t_81d3b54998213e 69
+  s_a5a2d5cd4d114e::t_a5c269e73d3c61 1-29,31-42,44-50,52-68,70-75,77-120
+  s_a5a2d5cd4d114e::t_cff6eeefe7eff2 76
+  s_a5a2d5cd4d114e::t_d76b585eaae815 30
+  s_a5a2d5cd4d114e::t_23ae438c9df153 43
+  s_a5a2d5cd4d114e::t_9cdcf0bfc08c59 51
+site/compare/whatruns-alternative.html
+  s_a5a2d5cd4d114e::t_630a01afff95aa 1-56,58-97
+  s_a5a2d5cd4d114e::t_46faa76ec96566 57
+site/site.css
+  s_a5a2d5cd4d114e::t_7d4d491fc4f8e5 956,960,969,972,977,980,987,990,994,999,1005,1012,1021,1026,1030,1032-1035,1039,1043,1052,1057,1059-1060,1065,1068,1073,1078,1085,1088,1092,1108,1117,1121,1124,1130,1181
+  s_a5a2d5cd4d114e::t_19eca944010544 1100-1104
+  s_a5a2d5cd4d114e::t_da5f789eadf51e 1134,1137,1142,1145,1148,1151-1168,1171,1176,1180
+  s_a5a2d5cd4d114e::t_92fdd3be5c07ac 952-955,957-959,961-968,970-971,973-976,978-979,981-986,988-989,991-993,995-998,1000-1004,1006-1011,1013-1020,1022-1025,1027-1029,1031,1036-1038,1040-1042,1044-1051,1053-1056,1058,1061-1064,1066-1067,1069-1072,1074-1077,1079-1084,1086-1087,1089-1091,1093-1099,1105-1107,1109-1116,1118-1120,1122-1123,1125-1129,1131-1133,1135-1136,1138-1141,1143-1144,1146-1147,1149-1150,1169-1170,1172-1175,1177-1179
+site/compare/stackshare-alternative.html
+  s_a5a2d5cd4d114e::t_e21a34309a1ffe 1-97
+site/compare/index.html
+  s_a5a2d5cd4d114e::t_b56d579c883469 1-54,56-99
+  s_a5a2d5cd4d114e::t_78f2eeb28549e0 55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "11fc6c4034773325c88a4a059b04c8443111fd23",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
