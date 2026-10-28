@@ -1,0 +1,81 @@
+fingerprints/README.md
+  s_a5a2d5cd4d114e::t_4322b4f107837c 1-7
+fingerprints/COMMIT
+  s_a5a2d5cd4d114e::t_3fbf4002141654 1
+fingerprints/LICENSE
+  s_a5a2d5cd4d114e::t_7f771750a5ffc2 1-674
+fingerprints/categories.json
+  s_a5a2d5cd4d114e::t_5f64fb949e4375 1-782
+fingerprints/groups.json
+  s_a5a2d5cd4d114e::t_f192f9b9265a2f 1-53
+fingerprints/technologies/_.json
+  s_a5a2d5cd4d114e::t_b6492be5f2636c 1-530
+fingerprints/technologies/a.json
+  s_a5a2d5cd4d114e::t_83c7a9830e746b 1-10148
+fingerprints/technologies/b.json
+  s_a5a2d5cd4d114e::t_3418cf15180db7 1-6507
+fingerprints/technologies/c.json
+  s_a5a2d5cd4d114e::t_0cb4daf95a0663 1-10811
+fingerprints/technologies/d.json
+  s_a5a2d5cd4d114e::t_772d3d76a5039a 1-4591
+fingerprints/technologies/e.json
+  s_a5a2d5cd4d114e::t_47723a01ee8902 1-5034
+fingerprints/technologies/f.json
+  s_a5a2d5cd4d114e::t_254f3f7e3035ab 1-5886
+fingerprints/technologies/g.json
+  s_a5a2d5cd4d114e::t_381832fba2357d 1-4942
+fingerprints/technologies/h.json
+  s_a5a2d5cd4d114e::t_40bc44d0415f33 1-3696
+fingerprints/technologies/i.json
+  s_a5a2d5cd4d114e::t_fea529d82b3768 1-3460
+fingerprints/technologies/j.json
+  s_a5a2d5cd4d114e::t_008da6c76db148 1-1909
+fingerprints/technologies/k.json
+  s_a5a2d5cd4d114e::t_a6f25d7758d4da 1-2996
+fingerprints/technologies/l.json
+  s_a5a2d5cd4d114e::t_a77053b0d17948 1-4515
+fingerprints/technologies/m.json
+  s_a5a2d5cd4d114e::t_406b9101dec8f6 1-7678
+fingerprints/technologies/n.json
+  s_a5a2d5cd4d114e::t_9ee9faba101295 1-2830
+fingerprints/technologies/o.json
+  s_a5a2d5cd4d114e::t_0c13643494acb2 1-3798
+fingerprints/technologies/p.json
+  s_a5a2d5cd4d114e::t_fe8299d9be96c3 1-9606
+fingerprints/technologies/q.json
+  s_a5a2d5cd4d114e::t_6efa7215a53d6a 1-1126
+fingerprints/technologies/r.json
+  s_a5a2d5cd4d114e::t_bd8582c66f09ae 1-5876
+fingerprints/technologies/s.json
+  s_a5a2d5cd4d114e::t_6b49c6debc6d29 1-15667
+fingerprints/technologies/t.json
+  s_a5a2d5cd4d114e::t_0aa82a3ecbe602 1-7599
+fingerprints/technologies/u.json
+  s_a5a2d5cd4d114e::t_47dfa0c9eed588 1-2103
+fingerprints/technologies/v.json
+  s_a5a2d5cd4d114e::t_42f03283100b64 1-3375
+fingerprints/technologies/w.json
+  s_a5a2d5cd4d114e::t_8664b3f4a4008e 1-5320
+fingerprints/technologies/x.json
+  s_a5a2d5cd4d114e::t_8f45c0a6756551 1-601
+fingerprints/technologies/y.json
+  s_a5a2d5cd4d114e::t_c13512d9e1efca 1-1351
+fingerprints/technologies/z.json
+  s_a5a2d5cd4d114e::t_3fca2036d47fff 1-1871
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "031c9e6a1bf576e524a6f1d9508a11631805e24f",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
