@@ -1,0 +1,23 @@
+site/index.html
+  s_a5a2d5cd4d114e::t_690c27f4b83b1c 44
+listing/MARKETING.md
+  s_a5a2d5cd4d114e::t_f28a96f136c3a5 38-40
+src/pages.mjs
+  s_a5a2d5cd4d114e::t_a26f74d364b449 244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "aaad7586fec0d9af3a568afb59375a51bf2b7ad8",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
