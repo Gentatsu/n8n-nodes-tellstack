@@ -1,0 +1,39 @@
+site/index.html
+  s_a5a2d5cd4d114e::t_f3424e1cf82361 1-190
+  s_a5a2d5cd4d114e::t_1924ad78a50506 191-196
+site/site.js
+  s_a5a2d5cd4d114e::t_901fc45e69bfa9 1-153
+site/site.css
+  s_a5a2d5cd4d114e::t_3e96d7f854db25 1-908,910-912
+  s_a5a2d5cd4d114e::t_ae2cc7ed2988a0 909,913-951
+site/favicon.svg
+  s_b55eb36e4fbaaf::t_5a50799f4423f8 1
+site/img/credits.json
+  s_a5a2d5cd4d114e::t_ce11fe92737085 1-90
+site/sightings.json
+  s_a5a2d5cd4d114e::t_609883dd6482a7 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "12c6d7e66400bc39d59548c9a388ce0c61ed42e7",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_b55eb36e4fbaaf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b152851c-1365-4e95-8b84-a5678e40e416",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
