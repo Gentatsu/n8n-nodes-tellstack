@@ -1,0 +1,59 @@
+test/api.test.mjs
+  s_a5a2d5cd4d114e::t_6e3c0b9223d6b1 1-152
+  s_b55eb36e4fbaaf::t_8bf67ab820b4ae 153-161
+src/api.mjs
+  s_a5a2d5cd4d114e::t_10f71d0f1c3f71 1-612
+  s_a5a2d5cd4d114e::t_1fb3f15cece123 613-621
+test/contract.test.mjs
+  s_a5a2d5cd4d114e::t_3c1e79a37c907c 1-59
+test/helpers.mjs
+  s_a5a2d5cd4d114e::t_4d941ec56d18f3 1-136
+  s_b55eb36e4fbaaf::t_22c7d89583a6f5 137-144
+src/worker.mjs
+  s_a5a2d5cd4d114e::t_3571d1a6bf0278 1-124
+  s_b55eb36e4fbaaf::t_67d428ceb7e5f7 125-134
+src/server.mjs
+  s_a5a2d5cd4d114e::t_b79b4334c76b93 1-407
+src/pages.mjs
+  s_a5a2d5cd4d114e::t_b9cd4dd6d47311 1-315
+  s_b55eb36e4fbaaf::t_14f4b61e9061b3 316-333
+src/db.mjs
+  s_a5a2d5cd4d114e::t_4f865c76321245 1-442
+  s_a5a2d5cd4d114e::t_8a79bd52722612 443-448
+src/billing.mjs
+  s_a5a2d5cd4d114e::t_c451ad7a71a265 1-80
+src/config.mjs
+  s_a5a2d5cd4d114e::t_60bdd5cf27dd32 1-46
+openapi.json
+  s_a5a2d5cd4d114e::t_e3c2bf55672de4 1-2421
+src/crypto.mjs
+  s_a5a2d5cd4d114e::t_239eec22eddae9 1-36
+src/http.mjs
+  s_a5a2d5cd4d114e::t_56186954b98d34 1-113
+src/mail.mjs
+  s_b55eb36e4fbaaf::t_8140956e2dd0dc 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "47c17cbaf6d06d36a6a2616f2793e1a983d134a7",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_b55eb36e4fbaaf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b152851c-1365-4e95-8b84-a5678e40e416",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
