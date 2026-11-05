@@ -1,0 +1,16 @@
+STATUS.md
+  h_1daf89ea8a8a75 11
+listing/OUTREACH.md
+  h_1daf89ea8a8a75 6-7,27-30,32,34-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c90320f65270565883cde89edeb58ed524669781",
+  "prompts": {},
+  "humans": {
+    "h_1daf89ea8a8a75": {
+      "author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
