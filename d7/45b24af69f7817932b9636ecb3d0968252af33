@@ -1,0 +1,21 @@
+test/stats.test.mjs
+  s_942f9fb0adabc3::t_64e4bb60cb12de 73
+site/stats.js
+  s_942f9fb0adabc3::t_6a7480e61dc912 47,61,65-66,68-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d745b24af69f7817932b9636ecb3d0968252af33",
+  "prompts": {},
+  "sessions": {
+    "s_942f9fb0adabc3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2517abe8-eca2-4347-9c53-53cea7b4566e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
