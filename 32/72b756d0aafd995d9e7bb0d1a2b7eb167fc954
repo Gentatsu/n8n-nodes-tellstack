@@ -1,0 +1,25 @@
+STATUS.md
+  s_7629c982d6f991::t_8631fe89c90362 3-4
+design/SCORES.md
+  s_7629c982d6f991::t_3a3b9add37a5c7 10-15
+public/app.css
+  s_7629c982d6f991::t_3637dc518107c7 219,221-236
+src/pages.mjs
+  s_7629c982d6f991::t_2871fe4958a13c 20-23,65,190,208,231,254
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "3272b756d0aafd995d9e7bb0d1a2b7eb167fc954",
+  "prompts": {},
+  "sessions": {
+    "s_7629c982d6f991": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2962fa3e-65b7-4987-be8e-8c33a875750c",
+        "model": "unknown"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
