@@ -1,0 +1,19 @@
+public/app.css
+  s_7629c982d6f991::t_2ebe4a97bc49d4 316
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "673a7c94831ba24c8f9bdbe6450017db2ed45d8c",
+  "prompts": {},
+  "sessions": {
+    "s_7629c982d6f991": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2962fa3e-65b7-4987-be8e-8c33a875750c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
