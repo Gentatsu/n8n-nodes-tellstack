@@ -1,0 +1,35 @@
+site/compare/builtwith-alternative.html
+  s_7629c982d6f991::t_e2bed5ffd98240 12,31-34,37,95-99
+site/compare/index.html
+  s_7629c982d6f991::t_b17133ba7a79e2 12,31-34,37,76-80
+site/compare/similartech-alternative.html
+  s_7629c982d6f991::t_6c2050bcfecea0 12,31-34,37,80-84
+site/compare/stackshare-alternative.html
+  s_7629c982d6f991::t_aa2a87081026a7 12,31-34,37,76-80
+site/compare/wappalyzer-alternative.html
+  s_7629c982d6f991::t_063e506fa94514 12,31-34,37,95-99
+site/compare/whatruns-alternative.html
+  s_7629c982d6f991::t_f95a2c07d0593c 12,31-34,37,76-80
+site/index.html
+  s_7629c982d6f991::t_e4cbf4d2f60391 58,163
+site/site.css
+  s_7629c982d6f991::t_bb9d05682c0fa9 90,92-94,757,760,1006-1007,1120,1126-1127,1140,1146,1202-1275
+site/site.js
+  s_7629c982d6f991::t_93eefeda833570 129,145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "535b4491956919f693fc3fc712e6331d0cb89b2c",
+  "prompts": {},
+  "sessions": {
+    "s_7629c982d6f991": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2962fa3e-65b7-4987-be8e-8c33a875750c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
