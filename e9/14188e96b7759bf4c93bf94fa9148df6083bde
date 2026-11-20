@@ -1,0 +1,88 @@
+src/detectors.json
+  s_50ae720e2e3fc8::t_90d34760d05ab2 1-325,328
+  s_50ae720e2e3fc8::t_fa063b34287457 326-327
+  s_50ae720e2e3fc8::t_93798066f409d1 329-331
+  s_9af2dbb8984497::t_2270a7d8d1663b 332-5205
+src/detectors.mjs
+  s_50ae720e2e3fc8::t_88f4b52d24c322 29
+  s_50ae720e2e3fc8::t_d33b82bd5cbd51 109
+  s_50ae720e2e3fc8::t_10afabfcee1366 1,3,5,9
+  s_50ae720e2e3fc8::t_4c4ab1e29754f4 4
+  s_50ae720e2e3fc8::t_3b2e0106517b3a 59
+  s_50ae720e2e3fc8::t_396c5c25bd46c5 6-8
+  s_50ae720e2e3fc8::t_9a964e3db26194 2
+  s_50ae720e2e3fc8::t_437b6a4bda388b 10-28,30-58,60-108,110
+  s_50ae720e2e3fc8::t_69af6bbd2430eb 111-120
+src/server.mjs
+  s_50ae720e2e3fc8::t_a528caa219f158 42-45
+  s_50ae720e2e3fc8::t_b7b38516cdc055 81
+  s_50ae720e2e3fc8::t_3385be42a4dc46 154-155
+  s_50ae720e2e3fc8::t_6966d699e4162c 187,193-234,236-239
+  s_50ae720e2e3fc8::t_c5b1d819a2cbb1 29
+  s_50ae720e2e3fc8::t_3ed3ad9bc1836e 235,240-242
+src/fingerprints.mjs
+  s_50ae720e2e3fc8::t_7dd07b93c8e35e 143-144
+site/index.html
+  s_50ae720e2e3fc8::t_f59dddf9c51bff 188
+src/api.mjs
+  s_50ae720e2e3fc8::t_a25397c9eff591 138,151-162
+  s_50ae720e2e3fc8::t_54a2fb88b1f64c 117
+  s_50ae720e2e3fc8::t_e696ba82cb9bb1 163-165
+  s_142a3f9301ca56::t_88b432c7b957a8 166-167
+.prettierignore
+  s_50ae720e2e3fc8::t_bb3a5f546be69b 9
+src/pages.mjs
+  s_50ae720e2e3fc8::t_e8d1e6b0bcfdd8 517
+  s_50ae720e2e3fc8::t_f950ebc5840afd 421-427
+  s_50ae720e2e3fc8::t_ef3afdecbf58cf 480
+  s_50ae720e2e3fc8::t_035d68821e72a5 37-42
+  s_50ae720e2e3fc8::t_d94fabb7239dab 586
+  s_50ae720e2e3fc8::t_082817be3a6091 456
+  s_50ae720e2e3fc8::t_f80360ced66fd0 52-53
+  s_50ae720e2e3fc8::t_d21991008391f4 407-420,428-455,457-459,461-479,481-516,518-572
+  s_50ae720e2e3fc8::t_77673d5f12bf23 460
+scripts/detectors.mjs
+  s_50ae720e2e3fc8::t_a0137a11f068e3 56
+  s_50ae720e2e3fc8::t_fc2c0b642ddb18 2-5,12,29-45,49,51,53,68-70,73
+  s_50ae720e2e3fc8::t_e85539faaf88a8 1,6-11,14-28,46-48,50,52,54-55,57-67,71-72
+  s_50ae720e2e3fc8::t_653fe6ddf54149 13
+  s_50ae720e2e3fc8::t_74c8513838bde5 74-77
+site/robots.txt
+  s_50ae720e2e3fc8::t_94d9525ce50b1c 4-5
+test/detectors.test.mjs
+  s_50ae720e2e3fc8::t_44b55131cb0cc8 16-20
+  s_50ae720e2e3fc8::t_a35db995740438 1-2,4-15,21-74
+  s_50ae720e2e3fc8::t_3fa2d5c9a79cc7 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e914188e96b7759bf4c93bf94fa9148df6083bde",
+  "prompts": {},
+  "sessions": {
+    "s_142a3f9301ca56": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a858680f43600d20e",
+        "model": "unknown"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_50ae720e2e3fc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31f33633-2e31-43ab-8931-5a1bca27a459",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_9af2dbb8984497": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-abc121f1321e6cb52",
+        "model": "unknown"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
