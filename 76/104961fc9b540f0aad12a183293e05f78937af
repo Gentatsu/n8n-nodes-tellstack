@@ -1,0 +1,20 @@
+STATUS.md
+  s_50ae720e2e3fc8::t_c5b7a85678075f 5-11,13-14
+  s_50ae720e2e3fc8::t_b6df396f91e398 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "76104961fc9b540f0aad12a183293e05f78937af",
+  "prompts": {},
+  "sessions": {
+    "s_50ae720e2e3fc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31f33633-2e31-43ab-8931-5a1bca27a459",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
