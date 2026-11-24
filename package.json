@@ -1,0 +1,62 @@
+{
+	"name": "n8n-nodes-tellstack",
+	"version": "0.1.0",
+	"description": "n8n nodes for Tellstack: look up the technologies behind any website, find websites using a technology, and watch for changes.",
+	"license": "MIT",
+	"homepage": "https://tellstack.onibaku.co.uk",
+	"keywords": [
+		"n8n-community-node-package",
+		"tellstack",
+		"technology lookup",
+		"tech stack",
+		"builtwith alternative",
+		"wappalyzer alternative",
+		"lead generation"
+	],
+	"author": {
+		"name": "Onibaku",
+		"email": "admin@onibaku.co.uk"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Gentatsu/n8n-nodes-tellstack.git"
+	},
+	"scripts": {
+		"build": "n8n-node build",
+		"build:watch": "tsc --watch",
+		"dev": "n8n-node dev",
+		"lint": "n8n-node lint",
+		"lint:fix": "n8n-node lint --fix",
+		"release": "n8n-node release",
+		"prepublishOnly": "n8n-node prerelease",
+		"test": "node test/trigger.mjs"
+	},
+	"files": [
+		"dist"
+	],
+	"n8n": {
+		"n8nNodesApiVersion": 1,
+		"strict": true,
+		"credentials": [
+			"dist/credentials/TellstackApi.credentials.js"
+		],
+		"nodes": [
+			"dist/nodes/Tellstack/Tellstack.node.js",
+			"dist/nodes/TellstackTrigger/TellstackTrigger.node.js"
+		]
+	},
+	"devDependencies": {
+		"@n8n/node-cli": "0.58.5",
+		"eslint": "9.32.0",
+		"prettier": "3.6.2",
+		"release-it": "^21.1.0",
+		"typescript": "5.9.2"
+	},
+	"peerDependencies": {
+		"n8n-workflow": "*"
+	},
+	"publishConfig": {
+		"access": "public",
+		"provenance": true
+	}
+}
