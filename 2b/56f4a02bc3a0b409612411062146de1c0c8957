@@ -1,0 +1,19 @@
+integrations/mcp/server.json
+  s_11a0217154b722::t_443d5472bb2bf7 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2b56f4a02bc3a0b409612411062146de1c0c8957",
+  "prompts": {},
+  "sessions": {
+    "s_11a0217154b722": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "904490ad-55b2-4340-8b01-501c35a6f89e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
